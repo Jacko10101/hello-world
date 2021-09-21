@@ -1,5 +1,4 @@
 # hello-world
 
-Hi there.
 
-This is just the beginning.
+Hi there. This is just the beginning.
